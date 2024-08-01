@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_fonts:
   fl_chart:
+  syncfusion_flutter_datagrid:
+  syncfusion_flutter_gauges:
 
 dev_dependencies:
   flutter_test:
